@@ -1,0 +1,49 @@
+{
+  "name": "react-practice",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.1.3",
+    "@material-ui/icons": "^4.2.1",
+    "@material/button": "^3.0.0",
+    "@material/textfield": "^3.0.0",
+    "axios": "^0.19.0",
+    "bootstrap": "^4.3.1",
+    "mdbreact": "^4.16.0",
+    "react": "^16.8.6",
+    "react-bootstrap": "^1.0.0-beta.9",
+    "react-columns": "^1.2.1",
+    "react-dom": "^16.8.6",
+    "react-image-picker": "^1.1.1",
+    "react-images-upload": "^1.2.7",
+    "react-modal-login": "^1.3.4",
+    "react-redux": "^7.1.0",
+    "react-responsive-carousel": "^3.1.51",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "react-select": "^3.0.4",
+    "react-textarea-autosize": "^7.1.0",
+    "shards-react": "^1.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
